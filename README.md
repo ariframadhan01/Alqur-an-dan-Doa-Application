@@ -24,4 +24,4 @@ Bug yang belum solved
 Next fitur
 - Tajwid
 
-Demo Aplikasi :
+Demo Aplikasi : https://ariframadhan01.github.io/Alqur-an-dan-Doa-Application/
